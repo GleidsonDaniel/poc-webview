@@ -1,4 +1,4 @@
 # poc-webview
 
 ##
-Test done to validate the gov-br login token capture
+Test done to validate the login token capture
